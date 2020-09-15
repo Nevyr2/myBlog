@@ -1,15 +1,15 @@
 baseurl = "/"
-title = "My blog"
+title = "Clement's blog"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "Clément Davin"
+    description = "étudiant en 5ème année à Epita (école d'ingénieur en informatique). actuellement en recherche de stage de février à juillet 2021"
+    github = "https://github.com/Nevyr2"
+    twitter = "https://twitter.com/davin1_davin"
+    email = "clement.davin@epita.fr"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"

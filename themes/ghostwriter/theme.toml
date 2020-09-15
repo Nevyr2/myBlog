@@ -8,10 +8,6 @@ features = ["blog", "technical", "personal"]
 min_version = "0.60"
 
 [author]
-    name = "Juraj Bubniak"
-    homepage = "https://github.com/jbub"
+    name = "Clement Davin"
+    homepage = "https://github.com/Nevyr2"
 
-[original]
-    author = "roryg"
-    homepage = "http://ghost.jollygoodthemes.com/ghostwriter/"
-    repo = "https://github.com/roryg/ghostwriter"

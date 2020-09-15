@@ -1,7 +1,7 @@
 +++
 title = "{{ humanize .Name | title }}"
 description = ""
-author = ""
+author = "Clement Davin"
 date = {{ .Date }}
 tags = []
 draft = true
