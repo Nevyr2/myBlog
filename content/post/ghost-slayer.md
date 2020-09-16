@@ -1,6 +1,5 @@
 ---
 title: Ghost-Slayer
-description: Réalisation d'un jeu dans le cadre de mon cursus scolaire en C
 date: 2018-11-20
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Github"
 ---
 
-
+Réalisation d'un jeu dans le cadre de mon cursus scolaire en C
+<!--more-->
 ***
 
 ## Paragraph

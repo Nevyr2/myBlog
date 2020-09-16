@@ -1,6 +1,5 @@
 ---
 title: Angry Bird
-description: implémentation d'un angry bird sur Unity en tant que projet personnel
 date: 2018-04-16
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "C Sharp"
 ---
 
-
+implémentation d'un angry bird sur Unity en tant que projet personnel
+<!--more-->
 ***
 
 ## Paragraph

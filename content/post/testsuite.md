@@ -1,6 +1,5 @@
 ---
 title: Testsuite en Python et Bash 
-description: Réalisation d'une testSuite générique pour tester mes Programmes
 date: 2017-03-01
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Bash"
 ---
 
-
+Réalisation d'une testSuite générique pour tester mes Programmes
+<!--more-->
 ***
 
 ## Paragraph

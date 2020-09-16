@@ -1,6 +1,5 @@
 ---
 title: Jeu SuperHot
-description: création d'un jeu vidéo déja existant (superhot) sur Unity en tant que projet personnel
 date: 2018-02-20
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "C Sharp"
 ---
 
-
+création d'un jeu vidéo déja existant (superhot) sur Unity en tant que projet personnel
+<!--more-->
 ***
 
 ## Paragraph

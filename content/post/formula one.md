@@ -1,6 +1,5 @@
 ---
 title: Formula One
-description: Développement en C d'une intelligence artificielle qui conduit une voiture et qui dois finir la course le plus rapidement possible
 date: 2018-04-16
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Github"
 ---
 
-
+Développement en C d'une intelligence artificielle qui conduit une voiture et qui dois finir la course le plus rapidement possible
+<!--more-->
 ***
 
 ## Paragraph

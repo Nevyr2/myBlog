@@ -6,6 +6,8 @@ categories:
   - "à propos de moi"
 menu: main
 ---
+Stage en Informatique de **Février** à **Juillet** 2021.
+<!--more-->
 ***
 ## Information
 

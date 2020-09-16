@@ -1,6 +1,5 @@
 ---
 title: OCR
-description: implémentation d'un logiciel de reconnaissance optique de caractères en C
 date: 2018-04-16
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Github"
 ---
 
-
+implémentation d'un logiciel de reconnaissance optique de caractères en C
+<!--more-->
 ***
 
 ## Paragraph

@@ -1,6 +1,5 @@
 ---
 title: Jeu Horreur en VR
-description: Implémentation d'un jeu d'horreur en VR sous Unity
 date: 2018-06-12
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "C Sharp"
 ---
 
-
+Implémentation d'un jeu d'horreur en VR sous Unity
+<!--more-->
 ***
 
 ## Paragraph

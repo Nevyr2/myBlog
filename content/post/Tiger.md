@@ -1,6 +1,5 @@
 ---
 title: Tiger
-description: Compilateur du langage Tiger réalisé en C++
 date: 2018-04-16
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Github"
 ---
 
-
+Compilateur du langage Tiger réalisé en C++
+<!--more-->
 ***
 
 ## Paragraph

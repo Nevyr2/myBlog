@@ -1,6 +1,5 @@
 ---
 title: Jeu de réflexion
-description: Réalisation dans le cadre de mon cursus scolaire d'un jeu de réflexion libre en équipe et sur Unity
 date: 2016-10-20
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "C Sharp"
 ---
 
-
+Réalisation dans le cadre de mon cursus scolaire d'un jeu de réflexion libre en équipe et sur Unity
+<!--more-->
 ***
 
 ## Paragraph

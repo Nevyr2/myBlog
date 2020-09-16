@@ -1,6 +1,5 @@
 ---
 title: Jeu d'échec
-description: Implémentation d'un jeu d'échec from scratch avec une intelligence artificielle contre laquelle jouer
 date: 2018-07-20
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Github"
 ---
 
-
+Implémentation d'un jeu d'échec from scratch avec une intelligence artificielle contre laquelle jouer
+<!--more-->
 ***
 
 ## Paragraph

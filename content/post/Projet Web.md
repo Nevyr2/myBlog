@@ -1,6 +1,5 @@
 ---
 title: Projet Web
-description: Réalisation d'un site internet de billetterie en ligne en réponse au besoin de mon école en python (django)
 date: 2019-02-15
 categories:
   - "Projets"
@@ -9,7 +8,8 @@ tags:
   - "Django"
 ---
 
-
+Réalisation d'un site internet de billetterie en ligne en réponse au besoin de mon école en python (django)
+<!--more-->
 ***
 
 ## Paragraph
