@@ -14,7 +14,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.logo]
   image = "moi.jpg" # Logo image. Path relative to "static"
   title = "Clement Davin" # Logo title, otherwise will use site title
-  subtitle = "Site vitrine" # Logo subtitle
+  subtitle = "Mon Profil et Mes Projets" # Logo subtitle
 
 
 [Params.sidebar]
