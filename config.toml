@@ -1,18 +1,39 @@
 baseurl = "/"
-title = "Clement's blog"
-theme = "ghostwriter"
+title = "Mainroad"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-[Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "Clément Davin"
-    description = "étudiant en 5ème année à Epita (école d'ingénieur en informatique). actuellement en recherche de stage de février à juillet 2021"
-    github = "https://github.com/Nevyr2"
-    twitter = "https://twitter.com/davin1_davin"
-    email = "clement.davin@epita.fr"
-    opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+[Author] # Used in authorbox
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
 
-[Permalinks]
-    post = "/:filename/"
+[Params.logo]
+  image = "moi.png" # Logo image. Path relative to "static"
+  title = "Mainroad" # Logo title, otherwise will use site title
+  subtitle = "Just another site" # Logo subtitle
+
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+  
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "username"
+  instagram = "username"
+  linkedin = "username"
+  telegram = "username"
+  github = "username"
+  gitlab = "username"
+  bitbucket = "username"
+  email = "example@example.com"
