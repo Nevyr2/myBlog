@@ -16,6 +16,6 @@ je suis à la recherche d'un stage dans le milieu de l'informatique qui aurait l
 
 ## Motivation
 
-Je souhaite trouver un stage dans le développement d'applications visuelles type application mobile ou site internet.
-Dans mes précedentes expérience, j'ai beaucoup apprécié le travail en équipe dans une ambiance collaborative.
+Je souhaite trouver un stage dans le développement d'applications visuelles type application mobile ou site internet.  
+Dans mes précedentes expérience, j'ai beaucoup apprécié le travail en équipe dans une ambiance collaborative.  
 Ce stage doit me permettre de m'orienter dans ma recherche d'emploi lorsque je serai diplômé.
